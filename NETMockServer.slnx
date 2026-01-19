@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/NETMockServer/NETMockServer.csproj" Id="d79bac17-b526-4fa4-b06b-598f9a13dd97" />
+</Solution>
